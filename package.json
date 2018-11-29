@@ -1,0 +1,14 @@
+{
+  "name": "daneshtest",
+  "version": "0.0.1",
+  "description": "For test Socket mr Danesh",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Majid ahmadi",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
